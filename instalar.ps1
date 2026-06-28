@@ -35,7 +35,7 @@ $RegContent = @"
 Windows Registry Editor Version 5.00
 
 [HKEY_CURRENT_USER\Software\Classes\*\shell\FFConverter]
-@="Converter Mídia (FFmpeg)"
+@="Converter para... (FFmpeg)"
 "Icon"="cmd.exe"
 
 [HKEY_CURRENT_USER\Software\Classes\*\shell\FFConverter\command]
